@@ -5,3 +5,6 @@
 
 ## O conjunto de palavras em que existe duas ocorrências de ab com 3 ou 6 símbolos entre elas
 ![image](https://github.com/user-attachments/assets/4e9d1587-01f3-47c8-a5d2-db1065b03af3)
+
+## TRANSFORMAR DE AFD PARA AFN
+![image](https://github.com/user-attachments/assets/f4e8adb5-4084-4636-8891-32474b3e1d84)
