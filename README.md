@@ -1,2 +1,2 @@
 # Automatos_Jflap
-Faculdades IESGO - Prof: juliana Vieira
+Faculdades IESGO - Prof: Juliana V. ⚙️
