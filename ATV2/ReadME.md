@@ -1,7 +1,7 @@
 ### Imagem Automatos
 
 ## {w Σ{a,b}* | w tem tamanho 3}
-![image](https://github.com/user-attachments/assets/fd2be616-d37d-40af-8a50-c00275176f66)
+![image](https://github.com/user-attachments/assets/773c56ca-9fb7-4684-acc1-05668d26a7e4)
 
 ## {w Σ{a,b}* | w tem tamanho maior que 3}
 ![image](https://github.com/user-attachments/assets/ccca364f-d3a1-4d77-832e-51e4bac344bc)
