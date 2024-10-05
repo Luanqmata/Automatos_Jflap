@@ -10,7 +10,7 @@
 ![image](https://github.com/user-attachments/assets/8a6523ca-683f-4fff-abec-f563629bf3b9)
 
 ## {w Σ{a,b}* | w tem como sufixo aaa ou bb}
-![image](https://github.com/user-attachments/assets/5df11e0f-2185-4c87-b31c-379e588687f6)
+![image](https://github.com/user-attachments/assets/4bcf6e1a-0d43-40ba-86ec-6f6c513f11b0)
 
 ## {w Σ{a,b}* | w tem tamanho múltiplo de 3}
 ![image](https://github.com/user-attachments/assets/603a58de-b884-4361-b3bf-1f27e14857a8)
