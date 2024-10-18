@@ -7,7 +7,7 @@
 ![image](https://github.com/user-attachments/assets/61feb7eb-1c74-4c89-bb2d-84e3d69c718c)
 
 ### O conjunto de palavras em que existe duas ocorrências de ab com um número ímpar de símbolos entre elas
-![image](https://github.com/user-attachments/assets/cc1a3868-7893-48b6-89e3-5b4b7c6d5e9f)
+![image](https://github.com/user-attachments/assets/bb55b60a-2459-4b51-bdaa-3577c5dce22f)
 
 ### {w Σ{0,1}* |w|> 4 e o segundo e o penúltimo símbolos são ambos 1} 
 ![image](https://github.com/user-attachments/assets/9b8c3fac-f096-47f8-ae4a-fc6d5f43d822)
